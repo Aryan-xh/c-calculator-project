@@ -8,3 +8,4 @@ scanf("%lf %lf", &a,&b);
 printf("Result: %.2lf - %.2lf = %.2lf\n",a,b,a-b);
 return 0;
 }
+
