@@ -8,3 +8,4 @@ int main() {
     printf("Result: %.2lf + %.2lf = %.2lf\n", a, b, a + b);
     return 0;
 }
+
